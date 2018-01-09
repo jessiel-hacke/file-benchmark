@@ -1,6 +1,6 @@
 Deprecated
 
-## TM I/O Bench
+## I/O Bench
 
 ### Dependencies
 
