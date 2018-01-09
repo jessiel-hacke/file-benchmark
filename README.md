@@ -1,4 +1,4 @@
-Deprecated
+#Deprecated
 
 ## I/O Bench
 
